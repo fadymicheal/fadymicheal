@@ -17,23 +17,15 @@
 
 ---
 
-## 📂 Upcoming Projects
+## 📂 Projects
 
-### 📌 COVID-19 Data Analysis
-SQL-based analysis project exploring global COVID-19 trends and insights.
-
-### 📌 Sales Dashboard
-Interactive Power BI dashboard for tracking KPIs and sales performance.
-
-### 📌 Excel Data Cleaning
-Data cleaning and transformation project using Excel tools and functions.
+### 📌 Superstore Sales Analysis Dashboard
+Interactive Power BI dashboard analyzing sales performance, profitability, customer segments, regional trends, and discount impact through dynamic visualizations and business insights.
 
 ---
 
 ## 📚 Currently Learning
 - Advanced SQL
-- Data Modeling
-- Business Intelligence
 - Python for Data Analysis
 
 ---
